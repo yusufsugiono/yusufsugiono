@@ -2,7 +2,7 @@
 
 :wave: You can call me Yusuf
 
-:star: Interest in Web Development and Cloud Computing :cloud:
+:star: Interest in Web Development, Machine Learning, and Cloud Computing :cloud:
 
 :pencil: You can read my writing at [SegalaHal.com](https://segalahal.com) 
 
