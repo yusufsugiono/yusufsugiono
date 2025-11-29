@@ -4,8 +4,6 @@
 
 :star: Interest in Web Development, Machine Learning, and Cloud Computing :cloud:
 
-:pencil: Also writing at [SegalaHal.com](https://segalahal.com) 
-
 :speech_balloon: Contributing as External Reviewer at Dicoding Indonesia. Check out my Dicoding Profile [here](https://dicoding.com/users/yusufsugiono)
 
 :paperclip: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yusuf-sugiono-04b613185/)
